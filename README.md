@@ -1,5 +1,5 @@
 # linear_search
-Bu proje bir dizideki elemanı Döğrusal Arama (Linear Search) yöntemiyle bulmayı sağlayan bir C kodudur.
+Bu proje bir dizideki elemanı Doğrusal Arama (Linear Search) yöntemiyle bulmayı sağlayan bir C kodudur.
 
 Öncelikle kullanıcıdan maksimum 100 eleman olması şartıyla dizinin eleman sayısı istenir. Doğrusal arama küçük veri yapılarında daha performanslı çalıştığında bu
 koşul koyulmuştur. Koşul kontrolü yapıldıktan sonra kullanıcıdan diziye eklemek istediği elemanlar istenir ve bu elemanlar bir döngü yardımıyla ilk indeksten
